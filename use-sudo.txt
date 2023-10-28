@@ -1,0 +1,42 @@
+sudo allows users to have elevated permissions without risking the system by running commands as the root suer
+
+to manage authorization and authentication you need to be a root user
+or a user with elevated privileges to modify the system
+
+you become a root user by logging in as the root user
+running commands as the root user is not recommended in linux because it can cause security risks
+rather than loggin in as the root user, it's recommended you use sudo in linux when you need elevated privileges
+
+sudo command temporarily grants elevated permissions to specific users
+users must be given access in a configuration file called the sudoers file to use sudo
+important to be aware that users with elevated permissions to use sudo might be more at risk in the event of an attack
+
+authentication is the process of verifying who someone is
+authorization is the concept of granting access to specific resources in a system
+
+useradd command adds a user to the system
+sudo useradd fgarcia
+sudo useradd -g security fgarcia
+sudo useradd -G finance,admin fgarcia
+
+usermod command modifies existing user accounts
+-g to change the primary group of an existing user
+sudo usermod -g executive fgarcia
+-G adds a supplemental group for an existing user
+-a appends the user to an existing group and is only used with -G option
+sudo usermod -a -G marketing fgarcia
+
+usermod -d changes the user's home directory
+usermod -l changes the user's login name
+usermod -L locks the account so the user can't log in
+
+option always goes after the usermod command
+
+userdel command deletes a user from the system
+sudo userdel fgarcia
+usermod -L deactivates users 
+
+chown command changes ownership of a file or directory
+use chown to change user or group ownership
+sudo chown fgarcia access.txt
+sudo chown :security access.txt
