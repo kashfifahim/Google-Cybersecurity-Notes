@@ -1,0 +1,68 @@
+in linux permissions are represented with a 10 character string
+for files read is the ability to read the file contents
+for directories it is the ability to read all contents in the directory including both files and subdirectories
+
+for files write is the ability to make modifications on the file contents
+for directories this is the ability to create new files in the directory
+execute is the ability to enter the directory and access its files
+
+user is the owner of the file
+group is a larger group that the owner is a part of 
+other is all other users on the system
+
+1--------- 
+d for directory
+- for regular file
+
+-2--------
+r if the user has read permission
+- if the user lacks read permission
+
+--3-------
+w if the user has write permission
+
+---4------
+x if the user has execute permission
+
+----5-----
+r if the group has read permission
+
+-----6----
+w if the group has write permission
+
+------7---
+x if the group has execute permission
+
+-------8--
+r if other has read permission
+
+--------9
+w if other has write permission
+
+--------10
+x if other has write permission
+
+ls -a 
+displays hidden files
+
+ls -l
+displays permissions to files and directories
+
+ls -la
+displays permissions to files and directories, includign hidden files
+
+principle of least privilege is the concept of granting only the minimal access and authorization required to complete a task
+users should not have privileges that are beyond what is necessary
+
+chmod command can help you manage this authorization
+chmod command changes permissions on files and directories
+chmod requires two arguments
+the first argument indicates how to change permissions
+the second argument indicates the file or directory that you want to change permissions for
+
+chmod u+rwx, g+rwx, o+rwx login_sessions.txt
+
+chmod u-rwx, g-rwx, o-rwx login_sessions.txt
+
+chmod u=r, g=r, o=r login_sessons.txt
+this command overwrites existing permissions
