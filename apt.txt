@@ -1,0 +1,13 @@
+apt [options] command
+
+list, list packages based on package names
+search, search in package descriptions
+show, show package details
+install, install packages
+reinstall, reinstall packages
+remove, remove packages
+autoremove, remove automatically all unused packages
+update, update list of available packages
+upgrade, upgrade teh sytem by installing/upgrading packages
+full-upgrade, upgrade teh sytem by removing/installing/upgrading packages
+edut-source, edit the source information file

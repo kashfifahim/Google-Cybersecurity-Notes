@@ -1,0 +1,41 @@
+a file path is the location of a file or directory
+in the file path the different levels of a hierarchy are separated by a forward slash
+
+the root directory is the highest-level directory in linux
+the root directory is always represented with a forward slash / 
+all subdirectories branch off the root directory
+subdirectories can continue branching out to as many levels as necessary
+
+/home, each user in the system gets their own home directory
+/bin, stands for binary and contains binary files and other executables 
+/etc, stores the system's configuration files
+/tmp, stores many temporary files
+/mnt, stands for mount and stores media such as usb drives and hard drives
+
+executables are files that contain a series of commands a computer needs to follow to run programs and perform other functions
+the /tmp directory is commonly used by attackers because anyone in teh system can modify data in these files
+
+you can navigate to specific subdirectories using their absolute or relative paths
+the absolute file path is the full file path that starts from the root
+relative file path is the file path that starts from a user's current directory
+
+relative file paths can use a dot . to represent the current directory
+relative file paths can use two dots .. to represent the parent or the current directory
+
+pwd command pritns the working directory to the screen
+whoami returns the username of the current user
+ls command displays the names of the files and directories in the current working directory
+cd command navigates between directories
+you can use the relative file path and eter cd .. to go up one level
+
+cat command displays the contents of a file
+head command displays the first 10 lines of a file
+tail command displays the last 10 lines of a file
+use tail to read the most recent information in a log file
+
+less command returns the content of a file one page at a time
+space bar moves forward one page
+b moves back one page
+down arrow move forward one line
+up arrow move back one line
+q quit and return to the previous line

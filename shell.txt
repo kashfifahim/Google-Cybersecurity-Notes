@@ -1,0 +1,12 @@
+the shell is the command-line interpreter
+
+when you enter a command into a shell, the shell executes many internal processes to interpret your command, send it to the kernel , and return your results
+
+bash, bourne-again shell
+csh, c shell
+ksh, korn shell
+tcsh, enhanced c shell
+zsh, z shell
+
+bash is the default shell in most linux distributions
+

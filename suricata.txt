@@ -1,0 +1,9 @@
+suricata is a network analysis tool used for intrusion detection
+tcpdump is a cli that can be used to capture network traffic in a linux bash shell
+
+apt list --installed
+
+sudo apt install suricata
+suricata
+
+apt list --installed

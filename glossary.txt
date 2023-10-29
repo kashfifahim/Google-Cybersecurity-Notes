@@ -1,0 +1,31 @@
+application, a program that performs a specific task
+bash, the dafault shell in most Linux distributions
+centos, related to red hat
+cpu, computer's mmain processor used to perform general computing tasks on a computer
+command, instruction telling the computer to do something
+digital forensics, the practice of collecting and analyzing data to determine what has happened after an attack
+directory, a file that organizes where other files are stored
+distributions, the different versions of linux
+file path, the location of a file or directory
+fhs, the component of the linux os that organizes data
+gui, a user interface that uses icon on the screen to manage different tasks on the computer
+hard drive, a hardware component used for long-term memory
+hardware, the physical components of a computer
+internal hardware, the components required to run the computer
+kali linux, used in the security industry
+kernel, the component of the linux os that manages processes and memory
+linux, open source operating system
+package, a piece of software that can be combined with other packages to form an application
+package manager, a tool that helps users install, manage, and remove packages or applications
+parrot, an open-source distribution that is commonly used for security
+penetration test (pen test), a simulated attack that helps identify vulnerabilities in systems, networks, websites, apps, and processes
+peripheral devices, hardware components that are attached and controlled by the computer system
+ram, a hardware component used for short-term memory
+red hat enterprise linux, a subscription based distribution of linux built for enterprise use
+shell, command-line interpreter
+standard error, an error message returned by the OS through the shell
+standard input, information recieved by the OS via the command line
+standard output, information returned by the OS through the shell
+string data, data consisting of an ordered sequence of characters
+ubuntu, an open-source, user-friendly distribution that is widely used in security and other industries
+user, person interacting with a computer

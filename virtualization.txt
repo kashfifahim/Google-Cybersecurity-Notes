@@ -1,0 +1,18 @@
+a virtual machine is a virtual version of a physical computer
+virtualization is the process of using software to create virtual representation of various physical machines
+virtual machine has a virtual cpu, virtual storage, and other virtual hardware
+virtual systems are just code
+
+virtualization provides an isolated environment, or a sandbox, on the physical host machine
+virtual machines can be kept separate from the other systems
+a security professional can intentionally place malware on a virtual machine to examine it in a more secure environment
+
+a malicious program can escape virtualization and access the host machine
+you should never completely trust virtualized systems
+
+virtual machines can be managed with a software called a hypervisor
+hypervisors help users manage multiple virtual machines and connect the virtual and physical hardware
+
+kernel-based virtual machine is an open source hypervisor that is supported by most major linux distributions
+kvm is built into the linux kernel
+kmv can be used to create virtual machines on any machine running a linux operating system

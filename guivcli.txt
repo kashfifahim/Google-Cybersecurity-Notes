@@ -1,0 +1,7 @@
+a gui is an interface that only allows you to make one request at a time
+a cli allows you to make multiple requests at a time
+
+cli cam be used more quickly
+a cli is more powerful when you need to perform multiple tasks efficiently
+
+the linux cli records a history file of all the commands and actions in the cli

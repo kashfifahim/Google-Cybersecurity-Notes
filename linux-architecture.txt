@@ -1,0 +1,44 @@
+the user is the person interacting with a computer
+the user initiates and manages computer tasks
+linux is a multi-user system
+in linux multiple users can use the same resources at the same time
+
+an application is a program that performs a specific task
+in linux you'll often use a package manager to install applications
+a package manager is a tool that helps users install, manage, and remove packages or applications
+a package is a piece of software that can be combined with other packages to form an application
+
+the shell is the command-line interpreter
+the shell allows users to give commands to the kernel and recieve responses from it
+the shell translates the commands you enter so that the computer can perform the tasks you want
+
+filesystem hierarchy standard, fhs
+fhs is the component of the linux os that organizes data
+fhs specifies the location where data is stored in the os
+
+a directory is a file that organizes where other files are stored
+directories are sometimes called folders
+the fhs defines how directories, directory contents, and other storage is organized so the OS knows where to find specific data
+
+kernel is the component of the linux os that manages processes and memory
+the kernel communicates with the applications to route commands
+the kernel controls all major functiosn of the hardware, which can help get tasks expedited more efficiently
+
+the hardware is the physical component of a computer
+hardware is categorized as either peripheral or internal
+
+peripheral devices are hardware components that are attached and controlled by the computer system
+peripheral devices are not core components needed to run the computer system
+peripheral devices can be added or removed freely
+internal hardware are the components required to run the computer 
+
+cpu is a computer's main processor which is used to perform general computing tasks on a computer
+the cpu executes the instructions provided by programs, which enables these programs to run
+
+ram is a hardware component where data is stored temporarily as you perform tasks on your computer
+information in RAM cannot be accessed once the computer has been turned off
+the CPU takes the data from RAM to run programs
+
+the hard drive is a hardware component used for long-term memory
+the hard drive is where programs and files are stored for the computer to access later
+information on the hard drive can be accessed even after a computer has been turned off and on again

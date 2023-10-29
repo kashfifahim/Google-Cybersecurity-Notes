@@ -1,0 +1,4 @@
+echo command outputs a specified string of text
+
+expr command performs basic mathematical calculations and can be useful when you need to quickly perform a calcuation
+expr command requires that all terms and operators in an expression are separated by spaces

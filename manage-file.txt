@@ -1,0 +1,25 @@
+filtering is selecting data that match a certain condition
+
+grep command searches a specified file and returns all lines in the file containing a specified string
+grep command takes two arguments: a specific string to search for and a specific file to search through
+
+pipe command is accessed using the pipe character |
+piping sends the standard output for one command as standard input to another command for further processing
+piping is a general tool that you can use whenever you want the output of one command to be the input of another command
+
+standard output is information returned by the OS through the shell
+standard input is information received by the OS via the command line
+
+when used with grep, the pipe can help you find directories and files containing a specific word in their names
+
+find command searches for directories and files that meet specific criteria
+the first argument after find indicates where to start searching
+after the first argument you need to indicate your criteria for the search
+specifying criteria involves options
+options modify the behavior of a command and commonly begin wiht a hyphen - 
+-name and -iname, find file or directory names that contain a specific string
+-name is case-sensitive
+-iname is not case-sensitive
+-mtime, find files or directories last modified within a certain time frame
+-mmin can be used if you want to base the search on minutes rather than days
+

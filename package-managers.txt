@@ -1,0 +1,21 @@
+a package is a piece of software that can be combined with other packages to form an application
+
+packages contain the files necessary for an application to be installed
+dependencies are supplemental files used to run an application
+
+a package manager is a tool that helps users install, manage, and remove packages or applications
+linux uses multiple package managers
+RPM and dpkg are package managers
+
+it is important to use the most recent version of a package when possible
+
+package management tools allow users to install new packages more easily
+apt, advanced package tool
+yum, yellowdog updater modified
+
+apt is a tool used with debian-derived distributions
+apt is run from cli to manage, search, and install packages
+
+yum is a tool used with red-hat derived distributions
+yum is run from cli to manage, search, and install packages
+yum works with .rpm files

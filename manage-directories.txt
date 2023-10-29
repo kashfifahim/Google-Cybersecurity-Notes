@@ -1,0 +1,19 @@
+mkdir command creates a new directory
+rmdir command removes, or deletes, a directory
+rmdir cannot delete directories with files or subdirectories inside
+touch command creates a new file
+rm command removes, or deletes, a file
+mv command moves a file or directory to a new location
+cp command copies a file or directory into a new location
+the first argument after mv or cop is the file or directory you want to move or copy
+the second argument is the location you want to move or copy it to
+mv command can also be used to rename files
+
+nano is a cli file editor
+Ctrl + O saves a file
+Ctrl + x exits
+
+You can use > and >> to redirect standard output
+> operator overwrites your existing file
+>> adds your content to the end of the existing file
+When used with echo, the > and >> operators can be used to send the output of echo to a specified file rather than the screen

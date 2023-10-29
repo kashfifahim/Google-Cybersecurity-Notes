@@ -1,0 +1,12 @@
+kali linux is debian-based
+a penetration test is a simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes.
+digital forensics is the practice of collecting and analyzing data to determine what has happened after an attack
+
+ubuntu is debian-based
+ubuntu is widely used for cloud computing
+
+parrot is based on debian and has a GUI
+
+red hat enterprise linux is a subscription-based distribution of linux built for enterprise use
+
+centos is closely related to red hat
