@@ -1,0 +1,12 @@
+application, a program that performs a specific task
+bios, a microchip that contains loading instructions for the computers and is prevalent in older systems
+bootloader, a software program that boots the operating system
+cli, a text-based user interface that uses commands to interact with the computer
+gui, a user interface that uses icons on the screen to manage different tasks on the computer
+hardware, the physical components of a computer
+legacy operating system, an operating system that is outdated but still being used
+os, the interface between computer hardware and the user
+ram, a hardware component used for short-term memory
+uefi, a microchip that contains loading instructions for the computer and replaces bios on more modern systems
+user interface, a program that allows the user to control the functions of the operating system
+vm, a virtual version of a physical computer
