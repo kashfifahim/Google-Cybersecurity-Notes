@@ -1,0 +1,3 @@
+to access sql from linux you need to type in a command for the version of sql that you want to use
+command for sqlite is sqlite 
+after this any commands typed in the command line will be directed to sql instead of linux

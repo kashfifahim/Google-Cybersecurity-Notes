@@ -1,0 +1,14 @@
+to create a filter in sql you need to use the where keyword 
+where indicates the condition for a filter 
+you can also filter based on a pattern 
+
+filtering for a pattern requires incorporating two more elements into your where cluase: a wildcard and the like operator 
+
+a wildcard is a special character that can be substituted with any other character 
+two useful wildcards are the % and the _
+
+% substitutes for any number of other characters 
+_ substitutes only for one other character 
+
+to apply wildcards to the filter you need to use the like operator instead of the equal sign = 
+like is used with where to search for a pattern in a column

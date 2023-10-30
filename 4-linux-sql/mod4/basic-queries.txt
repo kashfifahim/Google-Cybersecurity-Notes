@@ -1,0 +1,31 @@
+the select keyword indicates which column to return
+you can also select multiple columns by separating them with a command
+select * returns all columns in a table
+
+select customerid
+select customerid, city 
+select *
+
+select keyword always comes with the from keyword 
+from indicates which table to query
+to use the from keyword you should write it after the select keyword on a new line and follow it with the name of the table 
+
+select *
+from customers;
+
+you end a query with a semicilon ; 
+line breaks are not necessary and are used to make the query easier to understand 
+
+select * from customers;
+
+order by sequences the records returned by a query based on a specified column or columns 
+to use order by keyword write it at the end of the query and specify a column to base the sort on 
+order by keyword sorts the records based on the column specified after this keyword 
+use the order by with the desc keyword to sort in descending order 
+desc keyword sorts numbers from largest to smallest, or from Z to A 
+you can choose multiple columns to order by
+
+select customerid, city, country
+from customers 
+order by country, city 
+
