@@ -1,0 +1,7 @@
+aggregate functions are functions that perform a calculation over multiple data points and return the result of the calculation 
+
+COUNT returns a single number that represents the number of rows returned from your query 
+AVG returns a single number that represents the average of the numerical data in a column 
+SUM returns a single number that represents the sum of the numerical data in a column 
+
+to use an aggregate function place the keyword for it after the SELECT keyword and then in parenthesis indicate the column you want to perform the calculation on 

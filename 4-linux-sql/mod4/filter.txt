@@ -1,0 +1,28 @@
+string data is data consisting of an ordered sequence of characters
+numeric data is data consisting of numbers 
+data and time data is data representing a date and/or time 
+
+< less than
+> greater than
+= equal to
+<= less than or equal to 
+>= greater than or equal to
+<> not equal to 
+!= not equal to 
+
+comparison operators are used in the WHERE clause at the end of a query 
+
+select firstname, lastname, birthdate
+from employees 
+where birthdate > '1970-01-01';
+
+> operator is exclusive, does not include the value of comparison 
+>= operator is inclusive, operator that includes the value of comparison 
+
+between operator filters for numbers or dates within a range 
+
+select firstname, lastname, hiredate
+from employees 
+where hiredate between '2002-01-01' AND '2023-01-01';
+
+the between operator is inclusive

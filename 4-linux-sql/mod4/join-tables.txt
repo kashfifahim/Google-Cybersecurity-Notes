@@ -1,0 +1,50 @@
+use joins to join data from multiple tables when these tables share a common column 
+
+inner join returns 
+rows matching on a specified column that exists in more than one table 
+inner join only returns the rows where there is a match and it returns all specified columns from all joined tables 
+
+if a column exists in both of the tables it is returned twice when SELECT * is used 
+
+SELECT *
+FROM employees 
+INNER JOIN machines ON employees.device_id =  machines.device_id;
+
+you must specify the two tables to join by including the first or left table after FROM 
+and the second or right table after INNER JOIN 
+after the name of the right table use the ON keyword and the = operator to indicate the column you are joining the tables on. 
+It is important that you specify both the table and column names in this portion of the join by placing a period (.) between the table and the column. 
+
+Outer joins returns all rows from either one table or both tables
+
+when joining two tables 
+LEFT JOIN returns all the records of the first table 
+but only returns rows of the second table that match on a specified column 
+
+SELECT *
+FROM employees 
+LEFT JOIN machines ON employees.device_id = machines.device_id;
+
+First specify the first or left table that comes after FROM 
+The second or right table as the table that comes after LEFT JOIN 
+
+when joining two tables 
+right join returns all of the records of the second table 
+but only returns rows from the first table that match on a specified column
+
+SELECT *
+FROM employees 
+RIGHT JOIN machines ON employees.device_id = machines.device_id;
+
+RIGHT JOIN has the same syntax as LEFT JOIN with the only difference being the keyword RIGHT JOIN instructs SQL to produce different output.
+The query returns all records from machines which is the second or right table. 
+
+FULL OUTER JOIN returns all records from both tables. Think of it as a way of completely merging two tables.
+
+SELECT *
+FROM employees
+FULL OUTER JOIN machines ON employees.device_id = machines.device_id;
+
+FULL OUTER JOIN query include all records from both tables.
+Similar to INNER JOIN the order of the tables does not change the results of the query 
+

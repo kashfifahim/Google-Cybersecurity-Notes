@@ -1,0 +1,22 @@
+AND is used to filter on two conditions 
+AND specifies that both conditions must be met simultaneously 
+
+select firstname, lastname, email, country, supportrepid
+from customers 
+where supportrepid = 5 and country = 'USA';
+
+OR specifies that either condition can be met 
+OR returns results where the first condition, the second condition or both are met 
+
+select firstname, lastname, email, country 
+from customers 
+where country = 'Canada' OR country = 'USA';
+
+NOT operator only works on a single condition and not on multiple ones 
+NOT negates a condition 
+
+logical operators can be combined in filters 
+
+select firstname, lastname, email, country 
+from customers 
+where not country = 'Canada' AND not country = 'USA';
