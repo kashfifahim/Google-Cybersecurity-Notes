@@ -1,0 +1,16 @@
+automation is the use of technology to reduce human and manual effort to perform common and repetitive tasks 
+
+Specific areas of cybersecurity in which Python might be used to automate specific tasks:
+- log analysis
+- malware analysis
+- access control list management 
+- intrusion detection 
+- compliance checks 
+- network scanning 
+
+a notebook is an online interface for writing, storing, and running code 
+code cells are meant for writing and running code 
+a notebook provides a machanism for running these code cells 
+markdown cells are meant for describing the code 
+
+Jupyter Notebook and Google Colaboratory are two common notebook environments 
