@@ -1,0 +1,17 @@
+automation is the use of technology to reduce human and manual effort to perform common and repetitive tasks 
+a variable is a container that stores data 
+conditional statement evaluates code to determine if it meets a specific set of conditions 
+iterative statement is code that repeatedly executes a set of instructions 
+for loop allows you to automate repetition of code based on a sequence 
+while loop allows you to automate the repetition based on a condition 
+
+function is a section of code that can be reused in a program 
+functions reduce the need to incorporate the same code multiple places in a program 
+
+string data is one of the most common data types 
+you can use bracket notation to access characters in a string 
+str()
+len()
+.index()
+
+a log is a record of events that occur within an organization's systems 

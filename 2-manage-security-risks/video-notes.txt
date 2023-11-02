@@ -1,0 +1,10 @@
+CISSP security domains 
+1. 
+2.
+3.
+4.
+5. identity and access management IAM
+6. security assessment and testing 
+7. security operations
+8. software development security 
+

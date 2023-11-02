@@ -1,0 +1,24 @@
+a regular expression (regex) is a sequence of characters that forms a pattern
+to access regular expressions and related functions in python you need to import
+import re 
+
+regular expressions are stored in python as strings 
+then these strings are used in re module functions to search through other strings 
+
+re.findall() function returns a list of matches to a regular expression.
+re.findall() requries two parameters.
+the first parameter is the string containing the regular expression pattern 
+the second parameter is the string you want to search through 
+
+import re 
+re.findall("ts", "tsnow, tsha, bmoreno")
+
+if you want to do more than search for specific strings you must incorporate special symbols into your regular expressions 
+
+\w matches with any alphanumeric character 
+. matches to all characters including symbols 
+\d matches to all single digits [0-9]
+\s matches to all single spaces
+\. matches to the period character 
++ sum
+

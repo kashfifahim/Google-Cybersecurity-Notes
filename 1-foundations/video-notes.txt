@@ -1,0 +1,38 @@
+MOD1
+security analyst/specialist
+cybersecurity analyst/specialist
+security operations center analyst/specialist
+information security analyst
+
+responsibilities of entry-level cybersecurity analyst
+- protecting computer and network systems 
+- installing prevention software
+- conducting periodic security audits
+
+blue team -- protecting the user
+red team -- poking holes 
+
+analyst -- operations
+engineer -- build detection/project focused work
+
+playbook, a list of how to go through certain detection and what the analyst needs to look at in order to investigate those incidents
+
+transferable skills
+- communication
+- collaboration
+- analysis
+
+programming languages
+SIEM tools 
+
+Key Assets
+PII     personal identifiable information 
+SPII    sensitive PII 
+Identity theft 
+
+MOD2
+look up security vendors 
+
+splunk is a SIEM tools
+google's chronicle is a SIEM tool 
+
