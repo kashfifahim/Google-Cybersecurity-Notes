@@ -1,0 +1,22 @@
+as a cybersecurity analyst you will need to communicate and collaborate with others 
+
+one of your main tasks as a cybersecurity analyst will be to proactively identify and solve problems 
+
+having a heightened sense of urgency and prioritizing tasks appropriately is essential in the cybersecurity field 
+
+an important transferable skill is a willingness to learn 
+
+by understanding how to use programming languages cybersecurity analysts can automate tasks that would otherwise be very time consuming 
+- searching for data to identify potential threats or organizing and analyzing information to indentify patterns related to security issues 
+
+SIEM (security information and event management)
+SIEM tools collect and analyze log data or records of events such as unusual behavior and support analyst's ability to monitor critical activities in an organization 
+
+Intrusion detection systems (IDSs)
+IDSs are used to monitor system activity and alerts for possible intrusion 
+IDSs are a key tool that every organization uses to protect assets and data
+
+being aware of current trends related to threat actors, malware, or threat methodologies is vital 
+this knowledge allows security teams to build stronger defenses against threat actor tactics and techniques 
+
+cybersecurity analysts need to be able to follow established policies and procedures to respond to incidents appropriately 

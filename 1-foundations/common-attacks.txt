@@ -1,0 +1,65 @@
+CSIRT, computer security incident response team 
+become familiar with different attack methods and the evolving tactics and techniques threat actors use 
+
+phishing is the use of digital communications to trick people into revealing sensitive data or deploying malicious software
+
+BEC business email compromise 
+a threat actor sends an email message that seems to be from a known source to make a seemingly legitimate request for information in order to obtain a financial advantage 
+
+speak phishing 
+a malicious email attack that targets a specific user or group of users; the email seems to originate from a trusted source 
+
+whaling, a form of spear phishing 
+threat actors target company executives to gain access to sensitive data 
+
+vishing, the exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source 
+
+smishing, the use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source 
+
+malware is software deigned to harm devices or networks 
+
+the primary purpose of malware is to obtain money or in some cases an intelligence advantage that can be used against a person, an organization, or a territory 
+
+viruses, malicious code written to interfere with computer operations and cause damage to data and software 
+a virus needs to be initiated by a user who transmits the virus via a malicious attachment or file download 
+when someone opens the malicious attachment or download, the virus hides itself in other files in the now infected system 
+when the infected files are opened it allows the virus to insert its own code to damage and/or destroy data in the system 
+
+worms are malware that can duplicate and spread itself across systems on its own 
+a worm does not need to be downloaded by a user 
+a worm is self-replicating and spreads from an already infected computer to other devices on the same network 
+
+ransomware, a malicious attack where threat actors encrypt an organization's data and demand payment to restore access 
+
+spyware, malware that's used to gather and sell information without consent 
+spyware can be used to access devices 
+spyware allows threat actors to collect personal data 
+
+social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables 
+human error is usually a result of trusting someone without question 
+it's the mission of a threat actor acting as a social engineer to create an environment of false trust and lies to exploid as many people as possible 
+
+social media phishing, a threat actor collects detailed information about their target from social media sites then they initiate an attack 
+
+watering hole attack a threat actor attacks a website frequently visited by a specific group of users 
+
+usb baiting, a threat actor strategically leaves a malware usb stick for an employee to find and install to unknowingly infect a network 
+
+physical social engineering a threat actor impersonates an employy, customer, or vendor to obtain unauthorized access to a physical location 
+
+social engineering is incredibly effective 
+people are generally trusting and conditioned to respect authority 
+
+reasons why social engineering attacks are effecitive
+authority, threat actors impersonate individuals with power; this is because people in general have been conditioned to respect and follow authority figures 
+
+intimidation, threat actors use bullying tactics 
+bullying tactics include persuading and intimidating victims into doing what they're told 
+
+consensus/social proof: because people sometimes do things that they believe many others are doing, threat actors use other's trust to pretend that they are legitimate 
+a threat actor might try to gain access to private data by telling an employee that other people at the company have given them access to that data in the past 
+
+trust, threat actors establish an emotional relationship with users that can be exploited over time
+threat actors use this relationship to develop trust and gain personal information 
+
+urgency, a threat actor persuades otehrs to respond quickly and without questioning 

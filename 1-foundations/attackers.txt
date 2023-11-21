@@ -1,0 +1,19 @@
+a threat actor is any person or group who presents a security risk 
+
+APTs advanced persistent threats have significant expertise accessing an organization's network without authorization 
+APTs tend to research their targets in advance and can remain undetected for an extended period of time 
+
+inside threats abuse their authorized access to obtain data that may harm an organization 
+
+hactivists are threat actors that are driven by political agenda 
+
+hacker is any person who uses computers to gain access to computer systems, networks, or data 
+
+authorized hackers aka ethical hackers 
+ehtical hackers follow a code of ethics and adhere to the law of conduct organizational risk evaluations 
+
+semi-authorized hackers are considered researchers; they search for vulnerabilities but don't take advantage of the vulnerabilities they find 
+
+unauthorized hackers are slo called unehtical hackers; malicious threat actors who do not follow or respect the law; 
+goal is to collect and sell confidential data for financial gain
+

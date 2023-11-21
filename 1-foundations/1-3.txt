@@ -1,0 +1,33 @@
+a security lifecycle is a constantly eveolving set of policies and standards 
+
+CIA triad: confidentiality, integrity, and availability triad 
+a model that helps inform how organizations consider risk when setting up systems and security policies 
+
+CIA are the three foundatioanl principles used by cybersecurity professionals to establish appropriate controls that mitigate threats, risks, and vulnerabilities 
+
+security controls are safeguards designed to reduce specific security risks 
+
+security frameworks are guidelines used for building plans to help mitigate risks and threats to data and privacy 
+
+security frameworks have 4 core components:
+- identifying and documenting security goals 
+- setting guidelines to achieve security goals 
+- implementing strong security processes 
+- monitoring and communicating results 
+
+compliance is the process of adhering to internal standards and external regulations 
+
+National Institute of Standards and Technology (NIST) is a U.S.-based agency that develops multiple voluntary compliance framworks that organizations worldwide can use to help manage risk 
+
+NIST Cybersecurity Framework (CSF) and the NIST Risk Management Framework (RMF)
+
+FERC-NERC
+The Federal Energy Regulatory Commission-North American Electric Reliability Corporation 
+a regulation that applies to organizations that work with electricity or involved with the power grid 
+
+FedRAMP, a U.S. federal government program that standardizes security assessment, authorization, monitoring, and handling of cloud services and product offerings 
+provide consistency across the government sector and third-party cloud providers 
+
+CIS is a nonprofit with multiple areas of emphasis 
+
+GDPR is a EU general data regulation that protects the processing of E.U. resident's data and their right to privacy in and out of E.U. territory 

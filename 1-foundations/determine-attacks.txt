@@ -1,0 +1,21 @@
+CISSP certified information systems security professional 
+8 CISSP security domains 
+
+password attack is an attempt to access password-secured devices, systems, networks, or data 
+brute force
+rainbow table 
+
+password attacks fall under the communication and network security domain 
+
+social engineering is a manipulation technique that exploits human error to gain pricate information, access, or valuables 
+social engineering attacks are related to the security and risk management domain 
+
+physical attack is a security incident that affects not only digital but also physical environments where the incident is deployed 
+
+adversarial artificial intelligence, a technique that manipulates ai and ml to conduct attacks more effectively 
+adversarial artificial intelligence fall under both the communication and network security and the identity and access management domains 
+
+supply-chain attack targets systems applications hardware and or software to locate a vulnerability where malware can be deployed 
+because every item sold undergoes a process that involves third parties, this means that the security breach can occur at any point in the supply chain 
+
+cryptographic attack affects secure forms of communication between a sender and intended recipient 
